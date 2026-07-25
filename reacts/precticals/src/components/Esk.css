@@ -1,0 +1,26 @@
+.product1{
+    height: 300px;
+    width: 310px;
+    margin: 10px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* display: flex; */
+    /* flex-direction: row; */
+    border: 2px solid black;
+}
+p1{
+background-color: blue; 
+width: 310px;
+height: 40px; 
+padding-top:5px;
+text-align: center;
+
+}
+.abc{
+    height: 200px;
+    height: 400px;
+    background-color: chartreuse;
+    border:2px solid black;
+}
